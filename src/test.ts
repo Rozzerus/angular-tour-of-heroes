@@ -6,7 +6,7 @@ import {BrowserDynamicTestingModule, platformBrowserDynamicTesting} from '@angul
 
 declare const require: any;
 
-// First, initialize the Angular    testing   environment.
+// First, initialize the Angular testing environment.
 getTestBed().initTestEnvironment(
   BrowserDynamicTestingModule,
   platformBrowserDynamicTesting()
